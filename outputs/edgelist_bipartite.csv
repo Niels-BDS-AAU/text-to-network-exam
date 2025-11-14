@@ -1,0 +1,16 @@
+source,target,weight
+speaker::Nikolaj Villumsen,topic::sport,1
+speaker::Nikolaj Villumsen,topic::arbejdere,1
+speaker::Nikolaj Villumsen,topic::diktatur,1
+speaker::Anne E. Jensen,topic::budg,1
+speaker::Anne E. Jensen,topic::forskning,1
+speaker::Anne E. Jensen,topic::landbrug,1
+speaker::Niels Fuglsang,topic::energi,1
+speaker::Niels Fuglsang,topic::klima,1
+speaker::Niels Fuglsang,topic::brint,1
+speaker::Niels Fuglsang,topic::dyr,1
+speaker::Niels Fuglsang,topic::cirkus,1
+speaker::Niels Fuglsang,topic::forbud,1
+topic::energi,speaker::Pernille Weiss,1
+speaker::Pernille Weiss,topic::hav,1
+speaker::Pernille Weiss,topic::økonomi,1

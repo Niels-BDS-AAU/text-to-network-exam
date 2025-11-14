@@ -1,0 +1,27 @@
+idx,type,level,title_or_firstline
+0,MD,1,Opgave: Fra tekst til netværk med LLM (Genbruger pensum-kode)
+2,CODE,,# --- ENV + sanity ---
+3,CODE,,"import os, google.generativeai as genai"
+4,MD,2,1) Opsætning (pakker og miljø)
+5,CODE,,"import sys, os"
+6,CODE,,# !pip install -U datasets pandas numpy matplotlib networkx google-generativeai tqdm python-dateutil orjson
+7,MD,2,2) Data: EU Debates (DK 2010–2012)
+8,CODE,,"# --- DATA: EU-debates, dansk 2010–2012 ---"
+9,CODE,,# --- ENKELT-TEST: 1 række ---
+10,MD,2,"3) LLM-udtræk (Gemini only, JSON) — bruger din originale prompt"
+11,CODE,,# --- LLM-UDTRÆK → outputs/triples.csv ---
+12,CODE,,# DENSIFY: Topic–Topic co-occurrence pr. tale (ingen LLM-kald)
+13,MD,2,4) Kør udtræk på hele samplet (simpel loop)
+14,CODE,,import pandas as pd
+15,CODE,,# --- NETVÆRK + FIGUR ---
+16,CODE,,"import os, pandas as pd"
+18,MD,2,"5) Normalisering (simpel, regel-baseret — ingen BERTopic/SBERT)"
+19,CODE,,CANON = {
+20,MD,2,6) Deskriptiv udforskning + QA-sample
+21,CODE,,"top_topics = df_ext[""topic""].value_counts().head(15)"
+22,MD,2,7) Netværk: bipartit Speaker–Topic + projektion Topic–Topic
+23,CODE,,B = nx.Graph()
+24,MD,2,8) Netværksanalyse: centralitet og communities
+25,CODE,,deg = nx.degree_centrality(T)
+26,CODE,,from networkx.algorithms.community import greedy_modularity_communities
+27,MD,2,9) Skriv kort i rapporten
