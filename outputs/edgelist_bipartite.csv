@@ -1,16 +1,238 @@
 source,target,weight
 speaker::Nikolaj Villumsen,topic::sport,1
-speaker::Nikolaj Villumsen,topic::arbejdere,1
-speaker::Nikolaj Villumsen,topic::diktatur,1
-speaker::Anne E. Jensen,topic::budg,1
+speaker::Nikolaj Villumsen,topic::migration,3
+speaker::Nikolaj Villumsen,topic::rettighed,1
+speaker::Nikolaj Villumsen,topic::flygtninge,3
+speaker::Nikolaj Villumsen,topic::børn,1
+speaker::Nikolaj Villumsen,topic::menneskerettighed,1
+speaker::Nikolaj Villumsen,topic::tyrki,1
+speaker::Nikolaj Villumsen,topic::demokrati,1
+speaker::Nikolaj Villumsen,topic::eu-støtte,1
+speaker::Nikolaj Villumsen,topic::krig,1
+speaker::Nikolaj Villumsen,topic::solidarit,1
+speaker::Nikolaj Villumsen,topic::arbejdsmiljø,1
+speaker::Nikolaj Villumsen,topic::sundhed,1
+speaker::Nikolaj Villumsen,topic::sikkerhed,1
+speaker::Nikolaj Villumsen,topic::arbejde,1
+speaker::Nikolaj Villumsen,topic::ulighed,1
+speaker::Nikolaj Villumsen,topic::fagbevægelse,1
+speaker::Nikolaj Villumsen,topic::klima,1
+speaker::Nikolaj Villumsen,topic::bil,1
+speaker::Nikolaj Villumsen,topic::energi,1
+topic::migration,speaker::Anne E. Jensen,1
+topic::migration,speaker::Pernille Weiss,2
+topic::migration,speaker::Peter Kofod,3
+topic::rettighed,speaker::Margrete Auken,1
+topic::rettighed,speaker::Pernille Weiss,1
+speaker::Anne E. Jensen,topic::budg,2
 speaker::Anne E. Jensen,topic::forskning,1
 speaker::Anne E. Jensen,topic::landbrug,1
-speaker::Niels Fuglsang,topic::energi,1
+speaker::Anne E. Jensen,topic::økonomi,1
+topic::landbrug,speaker::Asger Christensen,4
+topic::landbrug,speaker::Pernille Weiss,1
+topic::landbrug,speaker::Jørn Dohrmann,1
+speaker::Niels Fuglsang,topic::energi,2
 speaker::Niels Fuglsang,topic::klima,1
 speaker::Niels Fuglsang,topic::brint,1
 speaker::Niels Fuglsang,topic::dyr,1
 speaker::Niels Fuglsang,topic::cirkus,1
-speaker::Niels Fuglsang,topic::forbud,1
-topic::energi,speaker::Pernille Weiss,1
+speaker::Niels Fuglsang,topic::velfærd,1
+speaker::Niels Fuglsang,topic::gas,1
+speaker::Niels Fuglsang,topic::uafhængighed,1
+speaker::Niels Fuglsang,topic::skat,1
+speaker::Niels Fuglsang,topic::økonomi,1
+speaker::Niels Fuglsang,topic::politik,1
+topic::energi,speaker::Pernille Weiss,2
+topic::energi,speaker::Morten Petersen,2
+topic::energi,speaker::Morten Helveg Petersen,1
+topic::energi,speaker::Christel Schaldemose,1
+topic::energi,speaker::Asger Christensen,1
+topic::energi,speaker::Bendt Bendtsen,2
+topic::klima,speaker::Morten Helveg Petersen,1
+topic::klima,speaker::Morten Petersen,1
+topic::klima,speaker::Christel Schaldemose,3
+topic::klima,speaker::Margrete Auken,2
+topic::klima,speaker::Asger Christensen,4
+topic::klima,speaker::Pernille Weiss,4
+topic::klima,speaker::Bendt Bendtsen,1
+topic::klima,speaker::Marianne Vind,1
+topic::velfærd,speaker::Jeppe Kofod,1
+topic::velfærd,speaker::Peter Kofod,1
+topic::velfærd,speaker::Emilie Turunen,1
 speaker::Pernille Weiss,topic::hav,1
-speaker::Pernille Weiss,topic::økonomi,1
+speaker::Pernille Weiss,topic::økonomi,5
+speaker::Pernille Weiss,topic::miljø,2
+speaker::Pernille Weiss,topic::innovation,1
+speaker::Pernille Weiss,topic::iværksætteri,1
+speaker::Pernille Weiss,topic::kvind,1
+speaker::Pernille Weiss,topic::natur,1
+speaker::Pernille Weiss,topic::biodiversit,1
+speaker::Pernille Weiss,topic::jagt,1
+speaker::Pernille Weiss,topic::industri,1
+speaker::Pernille Weiss,topic::sundhed,2
+speaker::Pernille Weiss,topic::krise,1
+speaker::Pernille Weiss,topic::beredskab,1
+speaker::Pernille Weiss,topic::integration,1
+speaker::Pernille Weiss,topic::pandemi,1
+speaker::Pernille Weiss,topic::ligestilling,1
+speaker::Pernille Weiss,topic::udenrigspolitik,1
+speaker::Pernille Weiss,topic::sikkerhedspolitik,1
+speaker::Pernille Weiss,topic::virksomhed,2
+speaker::Pernille Weiss,topic::handel,1
+speaker::Pernille Weiss,topic::pas,1
+speaker::Pernille Weiss,topic::rejse,1
+topic::økonomi,speaker::Margrete Auken,1
+topic::økonomi,speaker::Marianne Vind,1
+topic::økonomi,speaker::Christel Schaldemose,1
+topic::økonomi,speaker::Rina Ronja Kari,1
+topic::økonomi,speaker::Jørn Dohrmann,1
+topic::økonomi,speaker::Bendt Bendtsen,1
+topic::økonomi,speaker::Morten Løkkegaard,1
+topic::økonomi,speaker::Emilie Turunen,1
+speaker::Morten Petersen,topic::omstilling,1
+speaker::Morten Petersen,topic::investering,2
+speaker::Morten Petersen,topic::brexit,1
+speaker::Morten Petersen,topic::handel,1
+speaker::Morten Petersen,topic::samarbejde,1
+speaker::Rina Ronja Kari,topic::politi,1
+speaker::Rina Ronja Kari,topic::retsikkerhed,1
+speaker::Rina Ronja Kari,topic::overvågning,1
+speaker::Rina Ronja Kari,topic::bank,1
+speaker::Rina Ronja Kari,topic::finanskrise,1
+speaker::Rina Ronja Kari,topic::tilsyn,1
+speaker::Rina Ronja Kari,topic::arbejde,1
+speaker::Rina Ronja Kari,topic::løn,1
+speaker::Rina Ronja Kari,topic::eu,2
+speaker::Rina Ronja Kari,topic::euro,1
+topic::politi,speaker::Bendt Bendtsen,1
+topic::politi,speaker::Morten Løkkegaard,1
+speaker::Morten Helveg Petersen,topic::sikkerhed,1
+topic::sikkerhed,speaker::Bendt Bendtsen,1
+topic::sikkerhed,speaker::Marianne Vind,1
+topic::sikkerhed,speaker::Christel Schaldemose,1
+speaker::Marianne Vind,topic::dumping,1
+speaker::Marianne Vind,topic::id-kort,1
+speaker::Marianne Vind,topic::kontrol,1
+speaker::Marianne Vind,topic::arbejdsvilkår,1
+speaker::Marianne Vind,topic::platformøkonomi,1
+speaker::Marianne Vind,topic::transport,1
+speaker::Marianne Vind,topic::virksomhed,1
+speaker::Marianne Vind,topic::ansættelse,1
+speaker::Marianne Vind,topic::lønmodtagere,1
+speaker::Marianne Vind,topic::ligestilling,1
+speaker::Marianne Vind,topic::kvind,1
+speaker::Marianne Vind,topic::bestyrels,1
+speaker::Marianne Vind,topic::sundhed,2
+speaker::Marianne Vind,topic::eu,1
+speaker::Marianne Vind,topic::menneskerettighed,2
+speaker::Marianne Vind,topic::pressefrihed,1
+speaker::Marianne Vind,topic::demokrati,1
+speaker::Marianne Vind,topic::arbejdsmiljø,1
+speaker::Marianne Vind,topic::luftfart,1
+speaker::Marianne Vind,topic::brændstof,1
+speaker::Marianne Vind,topic::lovgivning,1
+speaker::Marianne Vind,topic::dødsstraf,1
+speaker::Marianne Vind,topic::handicap,1
+speaker::Marianne Vind,topic::arbejde,1
+speaker::Marianne Vind,topic::arbejdsplads,1
+speaker::Rasmus Andresen,topic::mindretal,1
+speaker::Rasmus Andresen,topic::demokrati,1
+speaker::Rasmus Andresen,topic::retsstat,1
+topic::demokrati,speaker::Margrete Auken,2
+speaker::Margrete Auken,topic::borgere,2
+speaker::Margrete Auken,topic::indflydelse,1
+speaker::Margrete Auken,topic::ombudsmand,1
+speaker::Margrete Auken,topic::fremtid,2
+speaker::Margrete Auken,topic::konflikt,1
+speaker::Margrete Auken,topic::besættelse,1
+speaker::Margrete Auken,topic::lov,1
+speaker::Margrete Auken,topic::miljø,2
+speaker::Margrete Auken,topic::affald,1
+speaker::Margrete Auken,topic::plastik,1
+speaker::Margrete Auken,topic::krig,1
+speaker::Margrete Auken,topic::fred,1
+speaker::Margrete Auken,topic::kurd,1
+speaker::Margrete Auken,topic::udvalg,1
+speaker::Margrete Auken,topic::ressourc,1
+speaker::Jeppe Kofod,topic::eu,1
+speaker::Jeppe Kofod,topic::samarbejde,1
+topic::eu,speaker::Morten Messerschmidt,1
+topic::eu,speaker::Peter Kofod,2
+topic::samarbejde,speaker::Morten Løkkegaard,1
+"speaker::Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",topic::digitalisering,1
+"speaker::Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",topic::marked,1
+"speaker::Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",topic::vækst,1
+topic::digitalisering,speaker::Christel Schaldemose,1
+topic::marked,speaker::Jens Rohde,1
+topic::marked,speaker::Bendt Bendtsen,1
+topic::marked,speaker::Linea Søgaard-Lidell,1
+topic::marked,speaker::Christel Schaldemose,1
+topic::vækst,speaker::Jens Rohde,1
+speaker::Karen Melchior,topic::ligestilling,2
+speaker::Karen Melchior,topic::køn,1
+speaker::Karen Melchior,topic::virksomhed,1
+speaker::Karen Melchior,topic::abort,1
+speaker::Karen Melchior,topic::pol,1
+speaker::Karen Melchior,topic::kvot,1
+topic::ligestilling,speaker::Kira Marie Peter-Hansen,1
+topic::virksomhed,speaker::Bendt Bendtsen,1
+speaker::Bendt Bendtsen,topic::handel,1
+speaker::Bendt Bendtsen,topic::konkurrence,1
+speaker::Bendt Bendtsen,topic::kina,1
+speaker::Bendt Bendtsen,topic::kriminalit,1
+speaker::Bendt Bendtsen,topic::terror,1
+speaker::Bendt Bendtsen,topic::skat,1
+speaker::Bendt Bendtsen,topic::bæredygtighed,1
+topic::handel,speaker::Morten Messerschmidt,1
+topic::konkurrence,speaker::Linea Søgaard-Lidell,1
+speaker::Christel Schaldemose,topic::elektronik,1
+speaker::Christel Schaldemose,topic::miljø,6
+speaker::Christel Schaldemose,topic::forbrugere,2
+speaker::Christel Schaldemose,topic::ressourc,1
+speaker::Christel Schaldemose,topic::fremtid,1
+speaker::Christel Schaldemose,topic::lovgivning,1
+speaker::Christel Schaldemose,topic::teknologi,2
+speaker::Christel Schaldemose,topic::svindel,1
+speaker::Christel Schaldemose,topic::sundhed,4
+speaker::Christel Schaldemose,topic::data,2
+speaker::Christel Schaldemose,topic::kræft,1
+speaker::Christel Schaldemose,topic::forebyggelse,1
+speaker::Christel Schaldemose,topic::sygdomme,1
+speaker::Christel Schaldemose,topic::diabetes,1
+speaker::Christel Schaldemose,topic::udstyr,1
+speaker::Christel Schaldemose,topic::patient,1
+speaker::Christel Schaldemose,topic::luftforurening,1
+topic::miljø,speaker::Asger Christensen,1
+topic::miljø,speaker::Jørn Dohrmann,1
+speaker::Peter Kofod,topic::løn,1
+speaker::Peter Kofod,topic::arbejde,1
+speaker::Peter Kofod,topic::jul,1
+speaker::Peter Kofod,topic::sprog,1
+speaker::Peter Kofod,topic::bureaukrati,1
+speaker::Peter Kofod,topic::brexit,1
+speaker::Peter Kofod,topic::græns,1
+speaker::Peter Kofod,topic::arbejdskraft,1
+speaker::Peter Kofod,topic::integration,1
+speaker::Asger Christensen,topic::mad,1
+speaker::Asger Christensen,topic::innovation,1
+speaker::Kira Marie Peter-Hansen,topic::skat,1
+speaker::Kira Marie Peter-Hansen,topic::skattely,1
+speaker::Kira Marie Peter-Hansen,topic::finans,1
+speaker::Kira Marie Peter-Hansen,topic::kvind,1
+speaker::Kira Marie Peter-Hansen,topic::vold,1
+speaker::Kira Marie Peter-Hansen,topic::fattigdom,1
+speaker::Kira Marie Peter-Hansen,topic::indkomst,1
+speaker::Kira Marie Peter-Hansen,topic::socialsikring,1
+topic::skat,speaker::Emilie Turunen,1
+topic::finans,speaker::Morten Messerschmidt,1
+topic::kriminalit,speaker::Morten Løkkegaard,1
+speaker::Morten Løkkegaard,topic::indremarked,1
+speaker::Morten Løkkegaard,topic::tjenest,1
+speaker::Morten Messerschmidt,topic::retssystem,1
+speaker::Morten Messerschmidt,topic::regl,1
+speaker::Morten Messerschmidt,topic::fødevar,1
+speaker::Jens Rohde,topic::roaming,1
+speaker::Søren Bo Søndergaard,topic::revision,1
+speaker::Søren Bo Søndergaard,topic::fejl,1
+speaker::Søren Bo Søndergaard,topic::ansvar,1
+speaker::Linea Søgaard-Lidell,topic::grøn omstilling,1

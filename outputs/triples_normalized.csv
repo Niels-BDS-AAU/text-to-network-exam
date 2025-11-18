@@ -1,7 +1,7 @@
 speech_id,year,speaker,party,topic
 2022-11-21 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,sport
-2022-11-21 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,arbejdere
-2022-11-21 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,diktatur
+2022-11-21 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,migration
+2022-11-21 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,rettighed
 2013-03-13 00:00:00,2013,Anne E. Jensen,ALDE,budg
 2013-03-13 00:00:00,2013,Anne E. Jensen,ALDE,forskning
 2013-03-13 00:00:00,2013,Anne E. Jensen,ALDE,landbrug
@@ -10,7 +10,281 @@ speech_id,year,speaker,party,topic
 2021-05-17 00:00:00,2021,Niels Fuglsang,S&D,brint
 2021-12-16 00:00:00,2021,Niels Fuglsang,S&D,dyr
 2021-12-16 00:00:00,2021,Niels Fuglsang,S&D,cirkus
-2021-12-16 00:00:00,2021,Niels Fuglsang,S&D,forbud
+2021-12-16 00:00:00,2021,Niels Fuglsang,S&D,velfærd
 2022-10-03 00:00:00,2022,Pernille Weiss,PPE,hav
 2022-10-03 00:00:00,2022,Pernille Weiss,PPE,energi
 2022-10-03 00:00:00,2022,Pernille Weiss,PPE,økonomi
+2020-02-10 00:00:00,2020,Morten Petersen,ALDE,omstilling
+2020-02-10 00:00:00,2020,Morten Petersen,ALDE,investering
+2020-02-10 00:00:00,2020,Morten Petersen,ALDE,energi
+2016-05-11 00:00:00,2016,Rina Ronja Kari,GUE/NGL,politi
+2016-05-11 00:00:00,2016,Rina Ronja Kari,GUE/NGL,retsikkerhed
+2016-05-11 00:00:00,2016,Rina Ronja Kari,GUE/NGL,overvågning
+2017-09-14 00:00:00,2017,Morten Helveg Petersen,ALDE,energi
+2017-09-14 00:00:00,2017,Morten Helveg Petersen,ALDE,sikkerhed
+2017-09-14 00:00:00,2017,Morten Helveg Petersen,ALDE,klima
+2020-01-29 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,flygtninge
+2020-01-29 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,børn
+2020-01-29 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,migration
+2021-11-22 00:00:00,2021,Marianne Vind,S&D,dumping
+2021-11-22 00:00:00,2021,Marianne Vind,S&D,id-kort
+2021-11-22 00:00:00,2021,Marianne Vind,S&D,kontrol
+2022-12-15 00:00:00,2022,Rasmus Andresen,Greens/EFA,mindretal
+2022-12-15 00:00:00,2022,Rasmus Andresen,Greens/EFA,demokrati
+2022-12-15 00:00:00,2022,Rasmus Andresen,Greens/EFA,retsstat
+2022-04-06 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,flygtninge
+2022-04-06 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,migration
+2022-04-06 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,menneskerettighed
+2013-04-18 00:00:00,2013,Margrete Auken,Greens/EFA,borgere
+2013-04-18 00:00:00,2013,Margrete Auken,Greens/EFA,indflydelse
+2013-04-18 00:00:00,2013,Margrete Auken,Greens/EFA,demokrati
+2020-10-22 00:00:00,2020,Morten Petersen,ALDE,energi
+2020-10-22 00:00:00,2020,Morten Petersen,ALDE,klima
+2020-10-22 00:00:00,2020,Morten Petersen,ALDE,investering
+2016-03-10 00:00:00,2016,Rina Ronja Kari,GUE/NGL,bank
+2016-03-10 00:00:00,2016,Rina Ronja Kari,GUE/NGL,finanskrise
+2016-03-10 00:00:00,2016,Rina Ronja Kari,GUE/NGL,tilsyn
+2016-02-03 00:00:00,2016,Jeppe Kofod,S&D,eu
+2016-02-03 00:00:00,2016,Jeppe Kofod,S&D,samarbejde
+2016-02-03 00:00:00,2016,Jeppe Kofod,S&D,velfærd
+2021-06-09 00:00:00,2021,Margrete Auken,Greens/EFA,ombudsmand
+2021-06-09 00:00:00,2021,Margrete Auken,Greens/EFA,demokrati
+2021-06-09 00:00:00,2021,Margrete Auken,Greens/EFA,rettighed
+2012-12-11 00:00:00,2012,"Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",S&D,digitalisering
+2012-12-11 00:00:00,2012,"Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",S&D,marked
+2012-12-11 00:00:00,2012,"Ole Christensen, Dan Jørgensen, Christel Schaldemose og Britta Thomsen",S&D,vækst
+2021-09-13 00:00:00,2021,Marianne Vind,,arbejdsvilkår
+2021-09-13 00:00:00,2021,Marianne Vind,,platformøkonomi
+2021-09-13 00:00:00,2021,Marianne Vind,,transport
+2022-11-22 00:00:00,2022,Karen Melchior,ALDE,ligestilling
+2022-11-22 00:00:00,2022,Karen Melchior,ALDE,køn
+2022-11-22 00:00:00,2022,Karen Melchior,ALDE,virksomhed
+2019-04-17 00:00:00,2019,Bendt Bendtsen,PPE,handel
+2019-04-17 00:00:00,2019,Bendt Bendtsen,PPE,konkurrence
+2019-04-17 00:00:00,2019,Bendt Bendtsen,PPE,kina
+2022-10-04 00:00:00,2022,Christel Schaldemose,S&D,elektronik
+2022-10-04 00:00:00,2022,Christel Schaldemose,S&D,miljø
+2022-10-04 00:00:00,2022,Christel Schaldemose,S&D,forbrugere
+2022-03-09 00:00:00,2022,Christel Schaldemose,S&D,miljø
+2022-03-09 00:00:00,2022,Christel Schaldemose,S&D,klima
+2022-03-09 00:00:00,2022,Christel Schaldemose,S&D,ressourc
+2021-10-20 00:00:00,2021,Margrete Auken,Greens/EFA,klima
+2021-10-20 00:00:00,2021,Margrete Auken,Greens/EFA,økonomi
+2021-10-20 00:00:00,2021,Margrete Auken,Greens/EFA,fremtid
+2022-09-13 00:00:00,2022,Peter Kofod,Dansk Folkeparti,løn
+2022-09-13 00:00:00,2022,Peter Kofod,Dansk Folkeparti,arbejdsmarked
+2022-09-13 00:00:00,2022,Peter Kofod,Dansk Folkeparti,velfærd
+2020-02-13 00:00:00,2020,Asger Christensen,ALDE,mad
+2020-02-13 00:00:00,2020,Asger Christensen,ALDE,landbrug
+2020-02-13 00:00:00,2020,Asger Christensen,ALDE,klima
+2019-07-16 00:00:00,2019,Christel Schaldemose,S&D,klima
+2019-07-16 00:00:00,2019,Christel Schaldemose,S&D,miljø
+2019-07-16 00:00:00,2019,Christel Schaldemose,S&D,energi
+2020-10-06 00:00:00,2020,Christel Schaldemose,S&D,klima
+2020-10-06 00:00:00,2020,Christel Schaldemose,S&D,miljø
+2020-10-06 00:00:00,2020,Christel Schaldemose,S&D,fremtid
+2020-11-25 00:00:00,2020,Karen Melchior,ALDE,ligestilling
+2020-11-25 00:00:00,2020,Karen Melchior,ALDE,abort
+2020-11-25 00:00:00,2020,Karen Melchior,ALDE,pol
+2021-03-10 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,skat
+2021-03-10 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,skattely
+2021-03-10 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,finans
+2019-10-21 00:00:00,2019,Marianne Vind,S&D,virksomhed
+2019-10-21 00:00:00,2019,Marianne Vind,S&D,ansættelse
+2019-10-21 00:00:00,2019,Marianne Vind,S&D,lønmodtagere
+2021-12-15 00:00:00,2021,Peter Kofod,Dansk Folkeparti,jul
+2021-12-15 00:00:00,2021,Peter Kofod,Dansk Folkeparti,sprog
+2021-12-15 00:00:00,2021,Peter Kofod,Dansk Folkeparti,bureaukrati
+2020-10-05 00:00:00,2020,Marianne Vind,S&D,ligestilling
+2020-10-05 00:00:00,2020,Marianne Vind,S&D,kvind
+2020-10-05 00:00:00,2020,Marianne Vind,S&D,bestyrels
+2019-09-19 00:00:00,2019,Nikolaj Villumsen,GUE/NGL,tyrki
+2019-09-19 00:00:00,2019,Nikolaj Villumsen,GUE/NGL,demokrati
+2019-09-19 00:00:00,2019,Nikolaj Villumsen,GUE/NGL,eu-støtte
+2022-07-05 00:00:00,2022,Pernille Weiss,PPE,klima
+2022-07-05 00:00:00,2022,Pernille Weiss,PPE,miljø
+2022-07-05 00:00:00,2022,Pernille Weiss,PPE,innovation
+2013-11-19 00:00:00,2013,Anne E. Jensen,,budg
+2013-11-19 00:00:00,2013,Anne E. Jensen,,økonomi
+2013-11-19 00:00:00,2013,Anne E. Jensen,,migration
+2016-05-11 00:00:00,2016,Bendt Bendtsen,PPE,kriminalit
+2016-05-11 00:00:00,2016,Bendt Bendtsen,PPE,terror
+2016-05-11 00:00:00,2016,Bendt Bendtsen,PPE,politi
+2021-06-24 00:00:00,2021,Asger Christensen,,klima
+2021-06-24 00:00:00,2021,Asger Christensen,,landbrug
+2021-06-24 00:00:00,2021,Asger Christensen,,energi
+2020-02-10 00:00:00,2020,Christel Schaldemose,S&D,forbrugere
+2020-02-10 00:00:00,2020,Christel Schaldemose,S&D,lovgivning
+2020-02-10 00:00:00,2020,Christel Schaldemose,S&D,teknologi
+2013-03-14 00:00:00,2013,Morten Løkkegaard,ALDE,kriminalit
+2013-03-14 00:00:00,2013,Morten Løkkegaard,ALDE,politi
+2013-03-14 00:00:00,2013,Morten Løkkegaard,ALDE,samarbejde
+2016-09-13 00:00:00,2016,Christel Schaldemose,S&D,svindel
+2016-09-13 00:00:00,2016,Christel Schaldemose,S&D,miljø
+2016-09-13 00:00:00,2016,Christel Schaldemose,S&D,sundhed
+2022-12-13 00:00:00,2022,Margrete Auken,Greens/EFA,konflikt
+2022-12-13 00:00:00,2022,Margrete Auken,Greens/EFA,besættelse
+2022-12-13 00:00:00,2022,Margrete Auken,Greens/EFA,lov
+2016-10-04 00:00:00,2016,Morten Messerschmidt,ECR,retssystem
+2016-10-04 00:00:00,2016,Morten Messerschmidt,ECR,eu
+2016-10-04 00:00:00,2016,Morten Messerschmidt,ECR,regl
+2020-04-16 00:00:00,2020,Marianne Vind,S&D,sundhed
+2020-04-16 00:00:00,2020,Marianne Vind,S&D,økonomi
+2020-04-16 00:00:00,2020,Marianne Vind,S&D,eu
+2020-07-09 00:00:00,2020,Pernille Weiss,PPE,klima
+2020-07-09 00:00:00,2020,Pernille Weiss,PPE,miljø
+2020-07-09 00:00:00,2020,Pernille Weiss,PPE,landbrug
+2022-05-02 00:00:00,2022,Pernille Weiss,,iværksætteri
+2022-05-02 00:00:00,2022,Pernille Weiss,,kvind
+2022-05-02 00:00:00,2022,Pernille Weiss,,økonomi
+2021-06-07 00:00:00,2021,Pernille Weiss,PPE,natur
+2021-06-07 00:00:00,2021,Pernille Weiss,PPE,biodiversit
+2021-06-07 00:00:00,2021,Pernille Weiss,PPE,jagt
+2015-04-28 00:00:00,2015,Margrete Auken,,miljø
+2015-04-28 00:00:00,2015,Margrete Auken,,affald
+2015-04-28 00:00:00,2015,Margrete Auken,,plastik
+2020-02-12 00:00:00,2020,Kira Marie Peter-Hansen,Greens/EFA,ligestilling
+2020-02-12 00:00:00,2020,Kira Marie Peter-Hansen,Greens/EFA,kvind
+2020-02-12 00:00:00,2020,Kira Marie Peter-Hansen,Greens/EFA,vold
+2022-03-08 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,flygtninge
+2022-03-08 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,krig
+2022-03-08 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,solidarit
+2021-03-25 00:00:00,2021,Christel Schaldemose,,data
+2021-03-25 00:00:00,2021,Christel Schaldemose,,økonomi
+2021-03-25 00:00:00,2021,Christel Schaldemose,,teknologi
+2016-06-07 00:00:00,2016,Morten Messerschmidt,ECR,finans
+2016-06-07 00:00:00,2016,Morten Messerschmidt,ECR,handel
+2016-06-07 00:00:00,2016,Morten Messerschmidt,ECR,fødevar
+2019-09-18 00:00:00,2019,Christel Schaldemose,S&D,kræft
+2019-09-18 00:00:00,2019,Christel Schaldemose,S&D,sundhed
+2019-09-18 00:00:00,2019,Christel Schaldemose,S&D,forebyggelse
+2019-12-17 00:00:00,2019,Pernille Weiss,PPE,klima
+2019-12-17 00:00:00,2019,Pernille Weiss,PPE,industri
+2019-12-17 00:00:00,2019,Pernille Weiss,PPE,energi
+2016-12-13 00:00:00,2016,Bendt Bendtsen,PPE,energi
+2016-12-13 00:00:00,2016,Bendt Bendtsen,PPE,klima
+2016-12-13 00:00:00,2016,Bendt Bendtsen,PPE,sikkerhed
+2019-04-16 00:00:00,2019,Rina Ronja Kari,GUE/NGL,arbejde
+2019-04-16 00:00:00,2019,Rina Ronja Kari,GUE/NGL,løn
+2019-04-16 00:00:00,2019,Rina Ronja Kari,GUE/NGL,eu
+2022-03-09 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,arbejdsmiljø
+2022-03-09 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,sundhed
+2022-03-09 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,sikkerhed
+2017-06-13 00:00:00,2017,Rina Ronja Kari,GUE/NGL,euro
+2017-06-13 00:00:00,2017,Rina Ronja Kari,GUE/NGL,økonomi
+2017-06-13 00:00:00,2017,Rina Ronja Kari,GUE/NGL,eu
+2022-03-08 00:00:00,2022,Niels Fuglsang,S&D,energi
+2022-03-08 00:00:00,2022,Niels Fuglsang,S&D,gas
+2022-03-08 00:00:00,2022,Niels Fuglsang,S&D,uafhængighed
+2022-06-07 00:00:00,2022,Asger Christensen,ALDE,klima
+2022-06-07 00:00:00,2022,Asger Christensen,ALDE,landbrug
+2022-06-07 00:00:00,2022,Asger Christensen,ALDE,innovation
+2021-10-05 00:00:00,2021,Pernille Weiss,PPE,sundhed
+2021-10-05 00:00:00,2021,Pernille Weiss,PPE,krise
+2021-10-05 00:00:00,2021,Pernille Weiss,PPE,beredskab
+2022-10-05 00:00:00,2022,Marianne Vind,S&D,menneskerettighed
+2022-10-05 00:00:00,2022,Marianne Vind,S&D,pressefrihed
+2022-10-05 00:00:00,2022,Marianne Vind,S&D,demokrati
+2020-10-20 00:00:00,2020,Asger Christensen,ALDE,landbrug
+2020-10-20 00:00:00,2020,Asger Christensen,ALDE,klima
+2020-10-20 00:00:00,2020,Asger Christensen,ALDE,miljø
+2021-10-07 00:00:00,2021,Pernille Weiss,PPE,migration
+2021-10-07 00:00:00,2021,Pernille Weiss,PPE,migration
+2021-10-07 00:00:00,2021,Pernille Weiss,PPE,integration
+2020-01-14 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,arbejdsmarked
+2020-01-14 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,ulighed
+2020-01-14 00:00:00,2020,Nikolaj Villumsen,GUE/NGL,fagbevægelse
+2016-04-12 00:00:00,2016,Jørn Dohrmann,ECR,landbrug
+2016-04-12 00:00:00,2016,Jørn Dohrmann,ECR,økonomi
+2016-04-12 00:00:00,2016,Jørn Dohrmann,ECR,miljø
+2021-09-13 00:00:00,2021,Pernille Weiss,PPE,pandemi
+2021-09-13 00:00:00,2021,Pernille Weiss,PPE,sundhed
+2021-09-13 00:00:00,2021,Pernille Weiss,PPE,økonomi
+2019-10-23 00:00:00,2019,Margrete Auken,Greens/EFA,krig
+2019-10-23 00:00:00,2019,Margrete Auken,Greens/EFA,fred
+2019-10-23 00:00:00,2019,Margrete Auken,Greens/EFA,kurd
+2020-10-22 00:00:00,2020,Pernille Weiss,PPE,ligestilling
+2020-10-22 00:00:00,2020,Pernille Weiss,PPE,udenrigspolitik
+2020-10-22 00:00:00,2020,Pernille Weiss,PPE,sikkerhedspolitik
+2016-01-21 00:00:00,2016,Margrete Auken,Greens/EFA,udvalg
+2016-01-21 00:00:00,2016,Margrete Auken,Greens/EFA,ressourc
+2016-01-21 00:00:00,2016,Margrete Auken,Greens/EFA,borgere
+2022-11-22 00:00:00,2022,Karen Melchior,ALDE,kvot
+2015-10-27 00:00:00,2015,Jens Rohde,ALDE,roaming
+2015-10-27 00:00:00,2015,Jens Rohde,ALDE,marked
+2015-10-27 00:00:00,2015,Jens Rohde,ALDE,vækst
+2020-02-10 00:00:00,2020,Pernille Weiss,PPE,virksomhed
+2020-02-10 00:00:00,2020,Pernille Weiss,PPE,klima
+2020-02-10 00:00:00,2020,Pernille Weiss,PPE,handel
+2021-04-27 00:00:00,2021,Peter Kofod,ID,brexit
+2021-04-27 00:00:00,2021,Peter Kofod,ID,eu
+2021-04-27 00:00:00,2021,Peter Kofod,ID,migration
+2016-06-07 00:00:00,2016,Bendt Bendtsen,PPE,skat
+2016-06-07 00:00:00,2016,Bendt Bendtsen,PPE,virksomhed
+2016-06-07 00:00:00,2016,Bendt Bendtsen,PPE,marked
+2021-03-08 00:00:00,2021,Pernille Weiss,PPE,virksomhed
+2021-03-08 00:00:00,2021,Pernille Weiss,PPE,rettighed
+2021-03-08 00:00:00,2021,Pernille Weiss,PPE,økonomi
+2013-11-21 00:00:00,2013,Søren Bo Søndergaard,GUE/NGL,revision
+2013-11-21 00:00:00,2013,Søren Bo Søndergaard,GUE/NGL,fejl
+2013-11-21 00:00:00,2013,Søren Bo Søndergaard,GUE/NGL,ansvar
+2016-06-23 00:00:00,2016,Bendt Bendtsen,PPE,energi
+2016-06-23 00:00:00,2016,Bendt Bendtsen,PPE,bæredygtighed
+2016-06-23 00:00:00,2016,Bendt Bendtsen,PPE,økonomi
+2021-05-18 00:00:00,2021,Morten Løkkegaard,ALDE,indremarked
+2021-05-18 00:00:00,2021,Morten Løkkegaard,ALDE,tjenest
+2021-05-18 00:00:00,2021,Morten Løkkegaard,ALDE,økonomi
+2011-09-15 00:00:00,2011,Christel Schaldemose,S&D,sygdomme
+2011-09-15 00:00:00,2011,Christel Schaldemose,S&D,sundhed
+2011-09-15 00:00:00,2011,Christel Schaldemose,S&D,diabetes
+2013-05-21 00:00:00,2013,Emilie Turunen,S&D,skat
+2013-05-21 00:00:00,2013,Emilie Turunen,S&D,økonomi
+2013-05-21 00:00:00,2013,Emilie Turunen,S&D,velfærd
+2022-03-09 00:00:00,2022,Marianne Vind,,arbejdsmiljø
+2022-03-09 00:00:00,2022,Marianne Vind,,sikkerhed
+2022-03-09 00:00:00,2022,Marianne Vind,,sundhed
+2013-10-22 00:00:00,2013,Christel Schaldemose,S&D,udstyr
+2013-10-22 00:00:00,2013,Christel Schaldemose,S&D,sikkerhed
+2013-10-22 00:00:00,2013,Christel Schaldemose,S&D,patient
+2022-07-07 00:00:00,2022,Marianne Vind,S&D,luftfart
+2022-07-07 00:00:00,2022,Marianne Vind,S&D,klima
+2022-07-07 00:00:00,2022,Marianne Vind,S&D,brændstof
+2022-05-18 00:00:00,2022,Niels Fuglsang,S&D,skat
+2022-05-18 00:00:00,2022,Niels Fuglsang,S&D,økonomi
+2022-05-18 00:00:00,2022,Niels Fuglsang,S&D,politik
+2019-10-24 00:00:00,2019,Marianne Vind,,menneskerettighed
+2019-10-24 00:00:00,2019,Marianne Vind,,lovgivning
+2019-10-24 00:00:00,2019,Marianne Vind,,dødsstraf
+2021-10-05 00:00:00,2021,Peter Kofod,Dansk Folkeparti,græns
+2021-10-05 00:00:00,2021,Peter Kofod,Dansk Folkeparti,migration
+2021-10-05 00:00:00,2021,Peter Kofod,Dansk Folkeparti,eu
+2021-04-27 00:00:00,2021,Morten Petersen,ALDE,brexit
+2021-04-27 00:00:00,2021,Morten Petersen,ALDE,handel
+2021-04-27 00:00:00,2021,Morten Petersen,ALDE,samarbejde
+2021-09-14 00:00:00,2021,Peter Kofod,ID,migration
+2021-09-14 00:00:00,2021,Peter Kofod,ID,arbejdskraft
+2021-09-14 00:00:00,2021,Peter Kofod,ID,integration
+2016-11-23 00:00:00,2016,Christel Schaldemose,S&D,luftforurening
+2016-11-23 00:00:00,2016,Christel Schaldemose,S&D,sundhed
+2016-11-23 00:00:00,2016,Christel Schaldemose,S&D,miljø
+2022-06-07 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,klima
+2022-06-07 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,bil
+2022-06-07 00:00:00,2022,Nikolaj Villumsen,GUE/NGL,energi
+2021-06-24 00:00:00,2021,Margrete Auken,Greens/EFA,klima
+2021-06-24 00:00:00,2021,Margrete Auken,Greens/EFA,miljø
+2021-06-24 00:00:00,2021,Margrete Auken,Greens/EFA,fremtid
+2021-06-09 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,fattigdom
+2021-06-09 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,indkomst
+2021-06-09 00:00:00,2021,Kira Marie Peter-Hansen,Greens/EFA,socialsikring
+2022-05-04 00:00:00,2022,Linea Søgaard-Lidell,ALDE,marked
+2022-05-04 00:00:00,2022,Linea Søgaard-Lidell,ALDE,konkurrence
+2022-05-04 00:00:00,2022,Linea Søgaard-Lidell,ALDE,grøn omstilling
+2021-04-28 00:00:00,2021,Pernille Weiss,PPE,pas
+2021-04-28 00:00:00,2021,Pernille Weiss,PPE,rejse
+2021-04-28 00:00:00,2021,Pernille Weiss,PPE,økonomi
+2021-12-14 00:00:00,2021,Christel Schaldemose,S&D,digitalisering
+2021-12-14 00:00:00,2021,Christel Schaldemose,S&D,data
+2021-12-14 00:00:00,2021,Christel Schaldemose,S&D,marked
+2021-03-08 00:00:00,2021,Marianne Vind,S&D,handicap
+2021-03-08 00:00:00,2021,Marianne Vind,S&D,arbejde
+2021-03-08 00:00:00,2021,Marianne Vind,S&D,arbejdsplads
